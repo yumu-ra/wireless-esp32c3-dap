@@ -8,6 +8,7 @@ on:
       paths-ignore:
       - '**.md'
       - 'circuit'
+    workflow_dispatch:
 
 # env:
 #   UPLOAD_USER_FIRMWARE: false
